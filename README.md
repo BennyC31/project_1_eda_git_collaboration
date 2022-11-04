@@ -19,7 +19,8 @@ Provide an analysis of horror movies from 2012 - present.  Looking for the follo
 (https://www.kaggle.com/datasets/PromptCloudHQ/imdb-horror-movie-dataset?select=IMDB+Horror+movies.csv)
 * Top 1000 Highest Grossing Movies
 (https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies)
-
+* Netflix-Shows
+(https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Tasks
 TBD
