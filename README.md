@@ -1,4 +1,4 @@
-# Horror Movie Analysis (2012 - Present)
+# Horror Movie Analysis (2012 - 2017)
 ## Team Members
 * Danielle Torpy - Test
 * Joe Liang
