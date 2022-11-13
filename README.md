@@ -41,6 +41,8 @@ https://apidocs.geoapify.com/docs/geocoding/forward-geocoding/#about
 * Roth - Relase Date Analysis
 * Ben - Country Analysis
 * Danielle - Rating Analysis
+  * Project_1_EDA_and_Git-DT:  Question 1 clean and plot, Question 2 API pull
+  * Location_Type_cleaned_DT:  Read CSV from API Pull and cleaned data
 * Joe - Netflix Analysis
 * Ben - set up initial Jupyter notebook
 
