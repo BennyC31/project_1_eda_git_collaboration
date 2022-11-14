@@ -22,6 +22,8 @@ Provide an analysis of horror movies.  Looking for the following trends: rating,
   * Number of horror movie release vs total release per year?
   * Was the number of releases effected by the pandemic? 
 
+## Final Slide Deck
+Horror_Movie_Trends_Project1_11142022_Compiled.pptx
 ## Notebooks
 * Danielle Torpy: Project_1_EDA_and_Git-DT.ipynb and Location_Type_cleaned_DT.ipynb
 * Joe Liang: Project 1 - Zhuoyi (Joe).ipynb
@@ -37,11 +39,9 @@ Provide an analysis of horror movies.  Looking for the following trends: rating,
 ## Datasets
 * IMDB Horror Movie Dataset [2012 Onwards]
 (https://www.kaggle.com/datasets/PromptCloudHQ/imdb-horror-movie-dataset?select=IMDB+Horror+movies.csv)
-* Top 1000 Highest Grossing Movies
-(https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies)
 * Netflix-Shows
 (https://www.kaggle.com/datasets/shivamb/netflix-shows)
-*Geocoding and Places API 
+* Geocoding and Places API 
 https://apidocs.geoapify.com/docs/geocoding/forward-geocoding/#about
 
 ## Tasks
