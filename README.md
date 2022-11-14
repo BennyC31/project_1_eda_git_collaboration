@@ -22,7 +22,17 @@ Provide an analysis of horror movies.  Looking for the following trends: rating,
   * Number of horror movie release vs total release per year?
   * Was the number of releases effected by the pandemic? 
 
+## Notebooks
+* Danielle Torpy: Project_1_EDA_and_Git-DT.ipynb and Location_Type_cleaned_DT.ipynb
+* Joe Liang: Project 1 - Zhuoyi (Joe).ipynb
+* Rothana Kim: Project_1_EDA_and_Git-RK.ipynb
+* Ben Calderaio: Project_1_EDA_and_Git-BC.ipynb
 
+## Project Datasets
+* clean_data(RK).csv
+* clean_data_pivot.xlsx
+* horror_movies.csv
+* location_type.csv
 
 ## Datasets
 * IMDB Horror Movie Dataset [2012 Onwards]
